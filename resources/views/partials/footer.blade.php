@@ -56,7 +56,7 @@
                 Sign up now
             </a>
             <div class="follow">
-                <h3 class="me-4">Follow us</h3>
+                <h3>Follow us</h3>
                 <div class="social">
                     <img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt="social" class="me-3">
                     <img src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt="social" class="me-3">

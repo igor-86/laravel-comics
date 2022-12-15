@@ -13,6 +13,7 @@
 
 <body>
     @include('partials.header')
+    @include('partials.jumbo')
     @yield('content')
     @include('partials.footer')
 </body>
